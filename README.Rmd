@@ -14,16 +14,18 @@ Ben Harrap also provides a useful tutorial on creating and modifying `rstheme` f
 
 You can install the development version of darkR using Git:
 
-```bash
+```r
+# clone the repo
 cd /your/personal/directory
 git clone https://github.com/AmandaKwok28/darkR.git
+```
 
 Another (probably easier option) : 
 You can also download the file directly and save it in your directory
 
 ## Usage
 
-To use the rstheme, open Rstudio and hit tools --> Global Options --> Appearance then in the 
+To use the rstheme, open Rstudio and hit `tools > Global Options > Appearance` then in the 
 drop-down list of editor themes, the Add... button and navigate to the rsthemes file you just
 downloaded. Finally, hit apply. 
 
