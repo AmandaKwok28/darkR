@@ -6,10 +6,10 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-darkR is an RStudio theme file designed to emulate the GitHub Dark
+darkR is an RStudio theme file designed to look like the GitHub Dark
 default theme. This project was created for personal use, inspired by my
-preference for the GitHub dark color scheme. It consists solely of an
-`rstheme` file.
+preference for the GitHub dark color scheme. It consists of only an
+`rstheme` file (which I learned is apparently all you need!).
 
 **Disclaimer:** I have little experience in CSS so the code may contain
 some redundancies. The `rstheme` file is based on an
