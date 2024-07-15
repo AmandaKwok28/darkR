@@ -12,7 +12,7 @@ preference for the GitHub dark color scheme. It consists solely of an
 `rstheme` file.
 
 **Disclaimer:** I have little experience in CSS so the code may contain
-some redundancies due to messy edits. The `rstheme` file is based on an
+some redundancies. The `rstheme` file is based on an
 edited version of Ben Harrap’s, available
 [here](https://github.com/benharrap/rsthemes.git).
 
