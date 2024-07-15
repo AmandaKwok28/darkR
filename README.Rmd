@@ -2,7 +2,21 @@
 output: github_document
 ---
 
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
 # darkR
+
+<!-- badges: start -->
+<!-- badges: end -->
 
 darkR is an RStudio theme file designed to emulate the GitHub Dark default theme. This project was created for personal use, inspired by my preference for the GitHub dark color scheme. It consists solely of an `rstheme` file.
 
