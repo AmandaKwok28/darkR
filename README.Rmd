@@ -4,34 +4,27 @@ output: github_document
 
 # darkR
 
-<!-- badges: start -->
-<!-- badges: end -->
+darkR is an RStudio theme file designed to emulate the GitHub Dark default theme. This project was created for personal use, inspired by my preference for the GitHub dark color scheme. It consists solely of an `rstheme` file.
 
-darkR only consists of an rstheme file that can be used to change the theme in Rstudios to resemble
-the github dark default theme. Disclaimer: I have little to no experience in CSS, this was just a fun
-project to change my R color theme because I like the github dark color scheme. There might be some
-repetitions in the code since my edits were a little messy. My rstheme file is an edited version of 
-Ben Harrap's linked here: https://github.com/benharrap/rsthemes.git
+**Disclaimer:** I have little experience in CSS so the code may contain some redundancies due to messy edits. The `rstheme` file is based on an edited version of Ben Harrap's, available [here](https://github.com/benharrap/rsthemes.git).
 
-He also has a great tutorial on how to modify your own rsthemes file in case you want to create
-your own theme. 
+Ben Harrap also provides a useful tutorial on creating and modifying `rstheme` files if you want to develop your own theme.
 
 ## Installation
 
-You can install the development version of darkR like so:
+You can install the development version of darkR using Git:
 
-``` bash
+```bash
 cd /your/personal/directory
 git clone https://github.com/AmandaKwok28/darkR.git
 
-```
 Another (probably easier option) : 
-You can also download the file directly and save it in your personal directory
+You can also download the file directly and save it in your directory
 
 ## Usage
 
 To use the rstheme, open Rstudio and hit tools --> Global Options --> Appearance then in the 
-drop down list of editor themes, the Add... button and navigate to the rsthemes file you just
+drop-down list of editor themes, the Add... button and navigate to the rsthemes file you just
 downloaded. Finally, hit apply. 
 
 
