@@ -10,7 +10,7 @@
 
 /* Gutter color */
 .ace_gutter {
-  background: #0F1822;
+  background: #0F1822; /* like the github dark background */
 }
 
 .ace_print-margin {
